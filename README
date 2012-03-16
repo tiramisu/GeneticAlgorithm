@@ -3,4 +3,4 @@
 標準ライブラリ以外なら
 import numpy
 import Gnuplot
-とかしてる
+とかしてると
